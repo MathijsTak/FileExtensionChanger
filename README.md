@@ -32,8 +32,8 @@ This Python script provides a graphical user interface (GUI) for changing file e
 
 ## Note
 
-Always make sure to backup your files before running this script, as the file extension changes are irreversible.
+Always make sure to backup your files before running this script, as the file extension changes might be irreversible.
 
 ## Credits
 
-This script was created with the assistance of Claude-3.5-sonnet, an AI language model, based on user requirements and questions.
+This script was created with the assistance of Claude-3.5-sonnet, an AI language model, based on user requirements and questions. This also means that there is no copyright on this program and you are free to use it any way you like.
